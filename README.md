@@ -1,10 +1,8 @@
-# CMAME_Research_Data_IXFEM_Multiple_Crack_Propagation
+# Research_Data_IXFEM_Multiple_Crack_Propagation_CMAME
 
 ## Dataset Description
 
-The IXFEM_Multiple_Crack_Propagation_Data has been meticulously collected and curated by L.X. Wang, L.F. Wen, R. Tian, and C. Feng to facilitate research on multiple crack propagation analysis using the Improved XFEM (IXFEM). This dataset includes a comprehensive set of data relevant to the analysis of arbitrary multiple crack initiation, propagation, and interaction.
-
-Researchers and scholars are encouraged to utilize this dataset for their own research purposes, and we kindly request that you cite our relevant articles in your research papers and reports.
+The IXFEM_Multiple_Crack_Propagation_Data has been meticulously collected and curated by L.X. Wang, L.F. Wen, R. Tian, and C. Feng to facilitate research on multiple crack propagation analysis using the Improved XFEM (IXFEM). This dataset includes a comprehensive set of data relevant to the analysis of arbitrary multiple crack initiation, propagation, and interaction. The manuscript has been submitted to CMAME for peer review. Researchers and scholars are encouraged to utilize this dataset for their own research purposes, and we kindly request that you cite our relevant articles in your research papers and reports.
 
 ## Citation
 
