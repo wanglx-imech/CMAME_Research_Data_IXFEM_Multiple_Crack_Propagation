@@ -8,7 +8,7 @@ The IXFEM_Multiple_Crack_Propagation_Data has been meticulously collected and cu
 
 If you use our dataset to support your research, please cite our relevant articles in your paper or report:
 
-L.X. Wang, L.F. Wen, R. Tian, C. Feng. “Improved XFEM (IXFEM): Arbitrary multiple crack initiation, propagation and interaction analysis.” Computer Methods in Applied Mechanics and Engineering, Volume 421, 2024, 116791.
+```L.X. Wang, L.F. Wen, R. Tian, C. Feng. “Improved XFEM (IXFEM): Arbitrary multiple crack initiation, propagation and interaction analysis.” Computer Methods in Applied Mechanics and Engineering, Volume 421, 2024, 116791.```
 
 
 A BibTeX format citation is shown below:
